@@ -15,6 +15,8 @@ System.out.println("my second push from local future branch");
 
 System.out.println("my third push from local future branch");
 
+System.out.println("my 1500 milyoncu push from local future branch");
+
 
 	}
 
