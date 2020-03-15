@@ -3,7 +3,18 @@ package gitPackageOne;
 public class GitDay3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		
+
+		
+System.out.println("my first changes on local master");
+
+System.out.println("this is my future branch");
+
+System.out.println("my second push from local future branch");
+
+System.out.println("my third push from local future branch");
+
 
 	}
 
